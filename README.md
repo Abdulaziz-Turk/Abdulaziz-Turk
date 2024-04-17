@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer and Frontend Developer
-- 💬 Ask me about my experience with System Development, Network Technology, JavaScript and ReactJS, or anything related to web development.
+- 💬 Ask me about my experience with System Development, Network Technology and JavaScript, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 </br>
 
