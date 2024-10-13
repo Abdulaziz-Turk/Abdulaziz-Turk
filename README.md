@@ -11,9 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Frontend Developer
-- 💬 Ask me about my experience with System Development, Network Technology and JavaScript, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🏢 I'm a Software Engineer and Automation Engineer.
+- 💬 Ask me about my experience with Industrial Automation, Robotics, PLC Programming, System Development, and Network Technology, or anything related to automation systems.
+- ⚡ Fun Fact: I'm passionate about optimizing processes, and just like with automation, I love finding ways to make my coffee-making routine more efficient!
 </br>
 
 
@@ -37,6 +37,9 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
+![Matlab](https://img.shields.io/badge/-Matlab%20-05122A?style=flat&logo=Matlab)&nbsp;
+![RobotStudio](https://img.shields.io/badge/-RobotStudio%20-05122A?style=flat&logo=RobotStudio)&nbsp;
+
 
 
 
